@@ -1,4 +1,4 @@
 {
-   "cmd": ["cmd", "/c", "jade", "$file"],
-   "selector": "source.jade"
+  "cmd": ["cmd", "/c", "jade", "$file"],
+  "selector": "source.jade"
 }

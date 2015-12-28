@@ -1,4 +1,4 @@
 {
-    "cmd": ["coffee","-c", "$file"],
-    "selector" : "source.coffee"
+  "cmd": ["coffee","-c", "$file"],
+  "selector" : "source.coffee"
 }
